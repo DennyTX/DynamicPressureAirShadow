@@ -1,0 +1,18 @@
+D:\KSP_105\GameData\OLDD\DynamicPressureController.dll
+D:\KSP_105\GameData\OLDD\DynamicPressureController.pdb
+e:\dennytx\documents\visual studio 2013\Projects\DynamicPressureController\DynamicPressureController\obj\Debug\DynamicPressureController.dll
+e:\dennytx\documents\visual studio 2013\Projects\DynamicPressureController\DynamicPressureController\obj\Debug\DynamicPressureController.pdb
+D:\KSP_105_\GameData\OLDD\DynamicPressureController.dll
+D:\KSP_105_\GameData\OLDD\DynamicPressureController.pdb
+D:\KSP_112_test\GameData\OLDD\DynamicPressureController.dll
+D:\KSP_112_test\GameData\OLDD\DynamicPressureController.pdb
+E:\DennyTX\Documents\Visual Studio 2013\Projects\112_DynamicPressureController\DynamicPressureController\obj\Debug\DynamicPressureController.dll
+E:\DennyTX\Documents\Visual Studio 2013\Projects\112_DynamicPressureController\DynamicPressureController\obj\Debug\DynamicPressureController.pdb
+D:\KSP_120_test\GameData\OLDD\DynamicPressureController\DynamicPressureController.dll
+D:\KSP_120_test\GameData\OLDD\DynamicPressureController\DynamicPressureController.pdb
+E:\DennyTX\Documents\Visual Studio 2013\Projects\_120\112_DynamicPressureController\DynamicPressureController\obj\Debug\DynamicPressureController.dll
+E:\DennyTX\Documents\Visual Studio 2013\Projects\_120\112_DynamicPressureController\DynamicPressureController\obj\Debug\DynamicPressureController.pdb
+E:\DennyTX\Documents\Visual Studio 2013\Projects\_120\112_DynamicPressureController\DynamicPressureController\obj\Debug\DynamicPressureController.csprojResolveAssemblyReference.cache
+E:\DennyTX\Documents\Visual Studio 2013\Projects\_120\DynamicPressureController\DynamicPressureController\obj\Debug\DynamicPressureController.dll
+E:\DennyTX\Documents\Visual Studio 2013\Projects\_120\DynamicPressureController\DynamicPressureController\obj\Debug\DynamicPressureController.pdb
+E:\DennyTX\Documents\Visual Studio 2013\Projects\_120\DynamicPressureController\DynamicPressureController\obj\Debug\DynamicPressureController.csprojResolveAssemblyReference.cache
